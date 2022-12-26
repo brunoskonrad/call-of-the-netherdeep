@@ -1,8 +1,11 @@
+# The Eggkarels
+
 #party 
 
-Many names. All of them.
+Our heroes party! We change the party name constantly, so we will refer to ourselves as **The Party**.
 
 ## Members
+
 [[Herschel Rigo]]
 [[Wysp Rigo]]
 [[Ozark the Scale Tamer]]
@@ -11,4 +14,9 @@ Many names. All of them.
 [[Viro of the Wood]]
 
 ## Notable items
+
 [[Jewel of Three Prayers]], currently with [[Viro of the Wood]]
+
+## Accomplishments
+
+- Survived **Betrayer's Rise**.

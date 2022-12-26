@@ -1,6 +1,6 @@
 #session
 
-[[Vrill]], the Moth. SHE’S SHADY AF. She wants access to Ruidius. And we hava a key for where this place is? The key being the Vestige of Divergence.
+[[Vrill]], the Moth. SHE’S SHADY AF. She wants access to Ruidium. And we have a key for where this place is? The key being the Vestige of Divergence.
 
 [[Viro of the Wood]] casts Zone of Truth. She proceeds to cast a spell to show Ruidium to the party, with our consent.
 
@@ -38,6 +38,6 @@ Some roleplaying. Wysp is going to teach Nathan and Viro how to sword fight. Com
 
 Ozark notices a person that has been sort of following the party.
 
-Viro picks the man up, basically. WE ARE KIDNAPPING THIS PERSON. Rhiordan Khine. SHADY AF. He buys magic weapons. Excentric fellar.
+Viro picks the man up, basically. WE ARE KIDNAPPING THIS PERSON. Rhiordan Khine. SHADY AF. He buys magic weapons. Eccentric fella.
 
 This man seems to be part of the Cobalt Soul. He will take us to the Cobalt soul. And he also teaches a bunch of cuss words.
