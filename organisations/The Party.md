@@ -1,8 +1,13 @@
+---
+alias: organisation
+name: The Eggkarels
+---
+
 # The Eggkarels
 
 #party 
 
-Our heroes party! We change the party name constantly, so we will refer to ourselves as **The Party**.
+Our heroes' party! We change the party name constantly, so we will refer to ourselves as **The Party**.
 
 ## Members
 

@@ -1,11 +1,9 @@
 ---
 alias: organisation
-name: Consortium of the Vermillion Dream
+name: Cobalt Soul
 ---
 
 #organisation
-
-Weird folk. Obsessed with the colour red.
 
 ## Known members
 
@@ -14,4 +12,3 @@ LIST
 WHERE contains(organisations, this.name)
 SORT file.name ASC
 ```
-
