@@ -28,4 +28,4 @@ Turns out Baba is a title given to [[Herschel Rigo]] and [[Wysp Rigo]]. So much 
 
 A **lot of lore**. TL;DR; do not trust [[Allegiance of Allsight]] or [[Consortium of the Vermillion Dream]]. Keep an eye on [[Jamil Alianta]] also.
 
-Henry the Bag. They're great.
+Henry the Bag. They're great. Likes button, leather stripes and something else. Shiny things?
