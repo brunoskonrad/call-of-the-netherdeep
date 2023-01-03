@@ -6,6 +6,10 @@ organisations:
   - Cobalt Sould
 ---
 
-#people #npc #ankharel
+#people #npc #ankharel #cobalt-soul 
 
-Eccentric fella. Was following the party after we left from Kruks bakery.
+Eccentric fella. Was following the party after we left from [[Kruuk]]'s' bakery.
+
+![[riordan-khine.png]]
+
+Is a spellcaster of some sort.
