@@ -14,7 +14,7 @@ Co-founder of the [[Consortium of the Vermillion Dream]]. Turns into a white mot
 
 It is the person who transformed themselves into a white moth and followed the party members in Ank'Harel.
 
-![White Moth form](../assets/white-moth.jpg)
+![White Moth form](white-moth.jpg)
 
 ## Can she be trusted?
 
