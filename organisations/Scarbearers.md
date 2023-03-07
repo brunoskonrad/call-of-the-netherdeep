@@ -1,3 +1,8 @@
+---
+alias: organisation
+name: Scarbearers
+location: Ank'Harel
+---
 #organisation #ankharel 
 
-Mercenaries.
+Mercenaries. [[Wysp Rigo]] is interested in joining them.

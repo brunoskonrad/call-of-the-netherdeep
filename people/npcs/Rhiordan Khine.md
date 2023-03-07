@@ -3,7 +3,7 @@ alias: NPC
 location: Ank'Harel
 name: Rhiordan Khine
 organisations:
-  - Cobalt Sould
+  - Cobalt Soul
 ---
 
 #people #npc #ankharel #cobalt-soul 

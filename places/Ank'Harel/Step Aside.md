@@ -3,7 +3,7 @@ alias: place
 type: inn
 name: Step Aside
 location: Ank'Harel
-summary: Tavern/Inn where the party is being hosted. Located in the Circle Walk.
+summary: Tavern/Inn where the party stayed the first week. Located in the Circle Walk.
 ---
 
 #place #ankharel 

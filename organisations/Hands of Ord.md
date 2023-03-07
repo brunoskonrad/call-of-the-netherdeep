@@ -1,6 +1,7 @@
 ---
 alias: organisation
 name: Hands of Ord
+location: Ank'Harel
 ---
 
 #organisation 

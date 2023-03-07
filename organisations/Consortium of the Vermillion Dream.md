@@ -1,6 +1,7 @@
 ---
 alias: organisation
 name: Consortium of the Vermillion Dream
+location: Ank'Harel
 ---
 
 #organisation

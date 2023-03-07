@@ -2,7 +2,8 @@
 alias: NPC
 name: Calinao
 location: Ank'Harel
-organisations: scarbearers
+organisations: 
+  - Scarbearers
 ---
 
 #people #ankharel #npc

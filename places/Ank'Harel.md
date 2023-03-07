@@ -13,7 +13,6 @@ Ank'Harel seems to be an oasis city located in the continent of Marquet. It has 
 ![Ank'Harel map](Ank'Harel.webp)
 
 ## Known residents
-
 ```dataview
 TABLE organisations as "Organisations"
 from #npc
@@ -22,10 +21,17 @@ SORT file.name ASC
 ```
 
 ## Known locations
-
 ```dataview
 LIST summary
 FROM #place 
+WHERE location="Ank'Harel"
+SORT file.name ASC
+```
+
+## Known organisations
+```dataview
+LIST
+FROM #organisation 
 WHERE location="Ank'Harel"
 SORT file.name ASC
 ```

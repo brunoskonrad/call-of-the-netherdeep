@@ -7,7 +7,7 @@ Brawl, the Iron Brawler.
 
 "Sentinels of Memory
 The path that you walked down, leads only to ruin
-Forget [[Cael Morrow]] . Go home."
+Forget [[Cael Morrow]]. Go home."
 
 "The things of this world that are better left forgotten."
 "Some really are"

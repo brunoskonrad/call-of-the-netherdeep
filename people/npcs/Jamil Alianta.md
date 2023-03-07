@@ -3,7 +3,7 @@ alias: NPC
 location: Ank'Harel
 name: Jamil Alianta
 organisations:
-  - Cobalt Sould
+  - Cobalt Soul
 ---
 
 #people #npc #ankharel #cobalt-soul 

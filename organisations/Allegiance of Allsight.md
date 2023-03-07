@@ -1,6 +1,7 @@
 ---
 alias: organisation
 name: Allegiance of Allsight
+location: Ank'Harel
 ---
 
 #organisation
