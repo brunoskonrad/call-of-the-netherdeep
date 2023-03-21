@@ -20,7 +20,7 @@ Our heroes' party! We change the party name constantly, so we will refer to ours
 
 ## Notable items
 
-[[Jewel of Three Prayers]], currently with [[Viro of the Wood]]
+[[Jewel of Three Prayers]], currently with [[Wysp Rigo]]
 
 ## Accomplishments
 

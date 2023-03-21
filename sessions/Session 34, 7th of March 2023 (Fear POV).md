@@ -24,7 +24,7 @@ Cold, quiet, feat. Viro's poem. The earth was harmed by outsiders, from his clan
 
 [[Ayo]] pulls a black card with a red circle on the center. Perhaps representing the red moon of Ruidus. Perhaps from [[Vrill]].
 
-They're paying the Rivals a good amount of gold to keep an eye at the casino. There are reports that someone will try a heist on the place. They're security guards at the place.
+They're paying the [[Rivals]] a good amount of gold to keep an eye at the casino. There are reports that someone will try a heist on the place. They're security guards at the place.
 
 [[Ayo]]: "[[Ozark the Scale Tamer]], I have a question for you. The guy they've been following from the Emerald Groto. How important is him to you?"
 
@@ -46,13 +46,13 @@ They're paying the Rivals a good amount of gold to keep an eye at the casino. Th
 
 "I mean, if we look back at it, you guys were out of the room when [[Wysp Rigo]] grabbed the jewel, so..."
 
-"We travelled with you guys too, to Baxxoxan. We've been in the Betrayer's Rise. We've been into the Crystal room. [[Irvin]] lost his arm, for whatever is in that amulet."
+"We travelled with you guys too, to [[Bazzoxan]]. We've been in the Betrayer's Rise. We've been into the Crystal room. [[Irvin]] lost his arm, for whatever is in that amulet."
 
 "That brings something that I want to ask you: is [[Irvin]] here?"
 
-"We left him in Baxxoxan"
+"We left him in [[Bazzoxan]]"
 
-"Herschel swear they've seem him"
+"[[Herschel Rigo]] swear they've seem him"
 
 "I guess my point is... Why you guys? Why is this whole big responsability on you?"
 
@@ -74,7 +74,7 @@ She kinda softens.
 
 "The way I see this is... If you trust me with the amulet, I can make sure it gets put in good use. And you guys can walk away of this while we  take care of it. Or I don't know what's gonna happen."
 
-"Do you know about the Ruidium. The drow woman in Baxxoxan, that's what was covering her. We found a sword covered on it."
+"Do you know about the Ruidium. The drow woman in [[Bazzoxan]], that's what was covering her. We found a sword covered on it."
 
 "Tell me about the sword."
 
@@ -106,7 +106,7 @@ She just pocket the card back.
 
 As [[Ayo]] goes to leave. Her harpoon has, on the tip of it, it's made of Red Crystal. They're fucked.
 
-[[Wysp Rigo]] and [[Fear, Nathan]] go play some dice. Fear wins 100 gold and leaves. Fear gets pickpocketed TWICE by a Tabaxi.
+[[Wysp Rigo]] and [[Fear, Nathan]] go play some dice. Fear wins 100 gold and leaves. Fear gets pickpocketed TWICE by a [[Casino Tabaxi]].
 1. First she stole 30 gold
 2. Then she stole the **Bracelet of Flame**
 

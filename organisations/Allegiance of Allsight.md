@@ -15,7 +15,6 @@ They seek to discover and procure the [[Ruidium]] so that they can learn about i
 Not trustworthy.
 
 ## Known members
-
 ```dataview
 LIST 
 WHERE contains(organisations, this.name)
