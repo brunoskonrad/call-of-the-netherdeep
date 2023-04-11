@@ -6,4 +6,4 @@ organisations:
 
 #party #people #cobalt-soul
 
-Member of the [[Cobalt Soul]].
+Member of the [[Cobalt Soul]]. Left the party on [[Session 35, 11th of April (Fear POV)]].
