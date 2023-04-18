@@ -26,7 +26,7 @@ Real frustrating. [[Fear, Nathan]] buys fruits and goes to the Opalite Forum.
 
 [[Jamil Alianta]] has a mission for us. There's a person we have to keep an eye on. Be spy on.
 
-There's a [[Mysterious Elf]] downstairs, researching about the Betrayer's God. For the past two weeks. Find out what they're doing in the city of Ank'Harel. Learn if they're dangerous to the city.
+There's a [[Laurin Ophidas]] downstairs, researching about the Betrayer's God. For the past two weeks. Find out what they're doing in the city of Ank'Harel. Learn if they're dangerous to the city.
 
 Asked to find out if they own magic items that may be dangerous to the city.
 

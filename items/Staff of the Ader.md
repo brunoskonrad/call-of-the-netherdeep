@@ -1,0 +1,1 @@
+Is in possession with the [[Zahir]] cult. Maybe related withg [[Laurin Ophidas]].

@@ -1,8 +1,8 @@
-And the [[Mysterious Elf]] chase begin! Everybody gets invisible. Let's go!
+And the [[Laurin Ophidas]] chase begin! Everybody gets invisible. Let's go!
 
 Many books in regards on the betrayers gods, pre calamity studies. Hard to tell what book specifically they were reading. There's a book that is slight pulled out from the rest. The **Cloaked Serpent** (Book).
 
-[[Ozark the Scale Tamer]] tries to jump to the far roof and misses it, falling on top of the carriage the [[Mysterious Elf]] was about to enter.
+[[Ozark the Scale Tamer]] tries to jump to the far roof and misses it, falling on top of the carriage the [[Laurin Ophidas]] was about to enter.
 
 [[Viro of the Wood]] and [[Fear, Nathan]] try to run for the cart. Viro attempts to throw Nathan towarsd the cart, for Fear to hold on there, but fails to do so. Fear lands with his face on the muddy ground. What a day.
 
@@ -10,7 +10,7 @@ They both have a chat and decide to go for drinks or something.
 
 [[Ozark the Scale Tamer]] and [[Wysp Rigo]] are on the chase! Let's go, folks!
 
-To the Scrolls Alcove. The [[Mysterious Elf]] is our neighbour. Like, really.
+To the Scrolls Alcove. The [[Laurin Ophidas]] is our neighbour. Like, really.
 
 Cold, quiet, feat. Viro's poem. The earth was harmed by outsiders, from his clan. Cold, quiet, feet. 
 
